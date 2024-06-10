@@ -1,0 +1,16 @@
+{
+    "prefix": "%",
+    "genChannel":  "",
+    "genCooldown": "",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {    
+        "notfound_message": true,
+        "error_message": true
+    },
+    "adminids": ["1234", "1234", "1234", "1234"]
+}
