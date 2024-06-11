@@ -52,4 +52,9 @@ This project is licensed under the MIT - see the [LICENSE](LICENSE) file for det
 
 ### Replit
 
-[Deploy to Replit](https://replit.com/import/github/<your-github-username>/<your-repo-name>)
+[Deploy to Replit](https://replit.com/import/github/devvyyxyz/random-gen-discord-bot)
+
+### Donate
+<a href="https://www.patreon.com/devvyyxyz" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcompact%2Fdonate%2Fpatreon-singular_vector.svg&amp;n=-1" alt="paypal-singular">
+</a>
